@@ -4,6 +4,10 @@
 
 *Most parents don't block/add time limits to shortcuts, so this most likely works!*
 
+```
+(Update 5/17/2022): Revived. More Coming Soon
+```
+
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheel-club/ScreenPass/issues/new)
 
