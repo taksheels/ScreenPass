@@ -1,6 +1,7 @@
 # ScreenPass
 ![Website](https://img.shields.io/website?down_message=DuckDuckGo&style=for-the-badge&up_message=DuckDuckGo&url=https%3A%2F%2Fduckduckgo.com)
 ![Website](https://img.shields.io/website?down_message=Invidious&style=for-the-badge&up_message=Invidious&url=https%3A%2F%2Finvidious.snopyta.org%2Ffeed%2Fpopular)
+### A safari bypass for iOS Screentime
 
 *Most parents don't block/add time limits to shortcuts, so this most likely works!*
 
