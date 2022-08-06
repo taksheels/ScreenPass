@@ -6,7 +6,7 @@
 *Most parents don't block/add time limits to shortcuts, so this most likely works!*
 
 ```
-(Update 5/18/2022): Focusing on Safari, most people can't sideload.
+(Update 8/18/2022): Archived, boredom
 ```
 
 # Issues
