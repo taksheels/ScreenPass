@@ -3,9 +3,9 @@
 ![Website](https://img.shields.io/website?down_message=Invidious&style=for-the-badge&up_message=Invidious&url=https%3A%2F%2Finvidious.snopyta.org%2Ffeed%2Fpopular)
 
 *Most parents don't block/add time limits to shortcuts, so this most likely works!*
-```
-(Update 10/13/2023): Will attempt to maintain, and maybe improve
-```
+# Download
+Click [here](https://github.com/taksheels/ScreenPass/releases/latest) for the latest release
+
 # Issues
 > Please report any bugs/issues [here](https://github.com/taksheels/ScreenPass/issues/new)
 
